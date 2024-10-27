@@ -1,0 +1,30 @@
+									# My Introduction
+							Welcome to *Muhammad Ridho Prakoso, Introduction*!
+					This repository is designed to Introduce myself to the Github Community and My Goals!
+
+## Table of Contents:
+1. Introduction
+2. Projects
+3. Resources
+									## Introduction
+My name is Muhammad Ridho Prakoso, i'm a Computer-Science student at BINUS University @Alam Sutera.
+
+									## Projects
+Here are some my project that i'm working on':
+- SQL Linux
+- Cybertask with Python
+
+									## Resources
+My list of resources to help me learn more about coding:
+- Coursera
+
+
+
+
+
+
+
+
+
+
+																	    Happy Coding ^v^
